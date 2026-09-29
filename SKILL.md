@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-calibrated-technical-tone
-description: "Strip unearned authoritative markers and modal hedges to maintain objective calibration." Use this when working on fitzpatrick calibrated technical tone.
+description: "Strip unearned authoritative markers and modal hedges to maintain objective calibration. Use this when working on fitzpatrick calibrated technical tone."
 category: "Writing & Communication"
 triggers:
   - "calibrated technical tone"
