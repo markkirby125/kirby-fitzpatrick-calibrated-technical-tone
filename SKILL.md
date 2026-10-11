@@ -9,7 +9,7 @@ triggers:
   - "remove modal hedges"
   - "professional tone"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
